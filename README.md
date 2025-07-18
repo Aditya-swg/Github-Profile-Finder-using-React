@@ -2,6 +2,8 @@
 
 🔍 GitHub Profile Finder using React : This project is a simple and responsive GitHub Profile Finder App built using React.js. It allows users to search for any GitHub username and fetches detailed profile information using the GitHub REST API.
 
+![image](https://github.com/Aditya-swg/Github-Profile-Finder-using-React/blob/main/Screenshot%20(49).png)
+
 🚀 Features
 - 🔎 Search GitHub users by their username
 - 📄 View user details: Name, Bio, Location, Public Repos, Followers, Following, etc.
